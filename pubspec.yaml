@@ -37,6 +37,7 @@ dependencies:
   google_maps_flutter:
   location:
   maps_toolkit:
+  permission_handler:
 
 dev_dependencies:
   flutter_test:
